@@ -1,0 +1,43 @@
+* {
+  background-image: linear-gradient(to right, white, #C5DFBA);
+}
+
+label ,
+input 
+  {
+  color: white;
+  background-image: none;
+  font-family: sans-serif;
+  position: relative;
+  top: 30px;
+
+
+}
+
+h1 {
+  color: white;
+  background-image: none;
+  font-family: sans-serif;
+  position: relative;
+  top: 10px;
+}
+.this {
+  color: black;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.div-one {
+  text-align: center;
+  right: 500px;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  color: #000;
+}
+
+.title {
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  right: 100px;
+}
